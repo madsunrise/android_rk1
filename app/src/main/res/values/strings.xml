@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RK1</string>
+    <string name="no_data">Нет данных</string>
+    <string name="update">Обновить</string>
+    <string name="background_update_on">Включить фоновое обновление</string>
+    <string name="background_update_off">Выключить фоновое обновление</string>
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="internal_error">Произошла внутренняя ошибка</string>
+</resources>
